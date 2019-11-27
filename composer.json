@@ -1,0 +1,13 @@
+{
+    "name": "vicky/lucyvicky",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vicky",
+            "email": "286334339@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
